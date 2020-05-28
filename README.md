@@ -21,6 +21,7 @@ Axios | Cliente HTTP usado para enviar requisições à API;
 Prop Types | Lib para checagem de tipo das props de componentes React;
 React Navigation | Lib implementação de navegação na aplicação;
 Styled Components | Lib usada estilização dos componentes.
+Instalar e Configurar Eslint | npm install --save-dev eslint babel-eslint
 
 
 Parte 5: Instalando o Mapbox e listando imóveis no React Native;
